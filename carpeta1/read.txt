@@ -1,1 +1,0 @@
-carpeta1/VisualizaciónDatos_Clase_1.ipynb
